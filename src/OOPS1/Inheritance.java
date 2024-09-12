@@ -1,0 +1,5 @@
+package OOPS1;
+//INHERITANCE THAT ALLOW US TO CREATE A NEW CLASS FROM AN EXISTING CLASS
+public class Inheritance {
+
+}
