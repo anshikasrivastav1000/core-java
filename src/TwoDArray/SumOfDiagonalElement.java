@@ -34,6 +34,7 @@ public class SumOfDiagonalElement {
                   if(i == j || i +j == n -1) //n -->no ofrow
                   {
                       sum = sum + arr[i][j];
+                      // sot(arr[i][j]+" ")
                   }
               }
 
