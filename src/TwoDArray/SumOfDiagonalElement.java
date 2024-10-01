@@ -23,7 +23,7 @@ public class SumOfDiagonalElement {
 
             }
         }
-        /// left diagolnal  i ==j
+        /// left diagolnal  i == j
         //right digonal ----i +j == n - 1
 //step 3 find sum of diagonal element
       int sum = 0;
